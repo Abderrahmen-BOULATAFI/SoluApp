@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SolutionAppConsole/1.0.0": {
+        "dependencies": {
+          "SolutionAppLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SolutionAppConsole.dll": {}
+        }
+      },
+      "SolutionAppLibrary/1.0.0": {
+        "runtime": {
+          "SolutionAppLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolutionAppConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolutionAppLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

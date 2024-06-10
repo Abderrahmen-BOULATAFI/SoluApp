@@ -1,0 +1,15 @@
+C:\Users\BOULATAFI Abderr\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOULATAFI Abderr\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.AssemblyInfoInputs.cache
+C:\Users\BOULATAFI Abderr\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.AssemblyInfo.cs
+C:\Users\BOULATAFI Abderr\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\bin\Debug\net8.0\SolutionAppLibrary.deps.json
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\bin\Debug\net8.0\SolutionAppLibrary.dll
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\bin\Debug\net8.0\SolutionAppLibrary.pdb
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.AssemblyInfoInputs.cache
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.AssemblyInfo.cs
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.dll
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\refint\SolutionAppLibrary.dll
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\SolutionAppLibrary.pdb
+C:\Users\mehdi\Bureau\MIRO\C#\Solu_App\SolutionAppLibrary\obj\Debug\net8.0\ref\SolutionAppLibrary.dll
